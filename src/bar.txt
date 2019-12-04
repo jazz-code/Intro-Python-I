@@ -1,0 +1,1 @@
+Write three lines of arbitrary content to that filethen close the file. Open up 'bar.txt' and inspect it to makesure that it contains what you expect it to contain
